@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+
+}
+
+.nav__link{
+    margin-right: 35px;
+    color: floralwhite;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.nav__link:last-child {
+    margin-right: 0;
+}
+
